@@ -1,0 +1,9 @@
+ef7816754265d240339da98f8831a498 *DESCRIPTION
+6c7699326fea583f522ea8089f10ccee *NAMESPACE
+8b57b06b8634301276d0f1f262f261e8 *R/main.R
+8e69a5045d2b31e19b613792fe80629f *man/Lq_fn.Rd
+15ad9b865e1dc925332b38a1a5535406 *man/Qclust.Rd
+57de42365edf9dd69b8a45b71def2f41 *man/dmm_fn.Rd
+b01c192b7c725395a9c1c98f6c9555d2 *man/dmm_noweights_fn.Rd
+a0dc166d715ca13215661f0b29aad0f0 *man/qclust-package.Rd
+1cf10908671c5a08ca40f8d21422132e *man/qclust_w_initialvalues.Rd
